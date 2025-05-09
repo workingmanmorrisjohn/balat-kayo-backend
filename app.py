@@ -79,8 +79,17 @@ async def websocket_endpoint(websocket: WebSocket, room_id: str):
         
         await room.send_updated_player_list()
         
+        if len(room.players.keys()) == 0:
+            rooms.pop(room.room_id)
+            
+            logger.info("Empty Room. Deleting Room")
+        
     except Exception as e:
         logger.exception(f"Unexpected error for player {player.player_id}: {e}")
         disconnected_player = room.remove_player(websocket)
         
         await room.send_updated_player_list()
+        
+        if len(room.players.keys()) == 0:
+            rooms.pop(room.room_id)
+            logger.info("Empty Room. Deleting Room")
