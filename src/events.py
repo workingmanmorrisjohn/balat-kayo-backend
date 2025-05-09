@@ -1,0 +1,20 @@
+from enum import StrEnum
+
+class Event(StrEnum):
+    INVALID_ROOM_ID = "invalid_room_id"
+    IDENTIFY = "identify"
+    UPDATED_PLAYERS_LIST = "updated_players_list"
+    UPDATED_READY_LIST = "updated_ready_list"
+    COUNTDOWN_START = "countdown_start"
+    GAME_START = "game_start"
+    VOTING_START = "voting_start"
+    UPDATED_VOTING_LIST = "updated_voting_list"
+    SHOW_IMPOSTOR = "show_impostor"
+    PLAYER_DISCONNECT = "player_disconnect"
+    PLAYER_JOINED = "player_joined"
+    SET_READY = "set_ready"
+    REMOVE_READY = "remove_ready"
+    SET_VOTE = "set_vote"
+    SET_NAME = "set_name"
+    END_TURN = "end_turn"
+    START_TURN = "start_turn"

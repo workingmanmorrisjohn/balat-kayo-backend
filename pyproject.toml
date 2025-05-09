@@ -1,0 +1,13 @@
+[project]
+name = "balat-kayo-backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi[standard]>=0.115.12",
+    "loguru>=0.7.3",
+    "pydantic>=2.11.3",
+    "python-decouple>=3.8",
+    "websockets>=15.0.1",
+]
