@@ -18,3 +18,4 @@ class Event(StrEnum):
     SET_NAME = "set_name"
     END_TURN = "end_turn"
     START_TURN = "start_turn"
+    SET_IMAGE = "set_image"

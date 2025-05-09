@@ -15,6 +15,8 @@ async def ready(room: GameRoom, player: Player):
 async def start_game_countdown(room: GameRoom):
     logger.info(f"All players are ready in room {room.room_id}. Starting the game in 3 seconds.")
     
+    room.start_game()
+    
     await room.send_countdown_start()
     
     await asyncio.sleep(3)

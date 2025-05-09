@@ -1,0 +1,4612 @@
+{
+    "words": [
+        {
+            "word": "Michael Jordan",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "LeBron James",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Stephen Curry",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Kobe Bryant",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Shaquille O'Neal",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Magic Johnson",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Larry Bird",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Bill Russell",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Kareem Abdul-Jabbar",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Kevin Durant",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Kawhi Leonard",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Giannis Antetokounmpo",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Dirk Nowitzki",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Dwyane Wade",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Chris Paul",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "James Harden",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Russell Westbrook",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Carmelo Anthony",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Paul George",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Damian Lillard",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Ja Morant",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Zion Williamson",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Trae Young",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Luka Don\u010di\u0107",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Nikola Joki\u0107",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Joel Embiid",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Anthony Davis",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Jayson Tatum",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Devin Booker",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Jimmy Butler",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Donovan Mitchell",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Kyrie Irving",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Ben Simmons",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Rudy Gobert",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Draymond Green",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Klay Thompson",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Blake Griffin",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Kevin Love",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "John Wall",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Bradley Beal",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Victor Wembanyama",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Chet Holmgren",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Scoot Henderson",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Brandon Miller",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Amen Thompson",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Ausar Thompson",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Anthony Edwards",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Tyrese Haliburton",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "LaMelo Ball",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "De'Aaron Fox",
+            "clue": "Basketball Player"
+        },
+        {
+            "word": "Titanic",
+            "clue": "Movie"
+        },
+        {
+            "word": "Avatar",
+            "clue": "Movie"
+        },
+        {
+            "word": "Avengers: Endgame",
+            "clue": "Movie"
+        },
+        {
+            "word": "Star Wars",
+            "clue": "Movie"
+        },
+        {
+            "word": "The Godfather",
+            "clue": "Movie"
+        },
+        {
+            "word": "The Dark Knight",
+            "clue": "Movie"
+        },
+        {
+            "word": "Pulp Fiction",
+            "clue": "Movie"
+        },
+        {
+            "word": "Forrest Gump",
+            "clue": "Movie"
+        },
+        {
+            "word": "The Matrix",
+            "clue": "Movie"
+        },
+        {
+            "word": "Jurassic Park",
+            "clue": "Movie"
+        },
+        {
+            "word": "Back to the Future",
+            "clue": "Movie"
+        },
+        {
+            "word": "E.T. the Extra-Terrestrial",
+            "clue": "Movie"
+        },
+        {
+            "word": "The Lion King",
+            "clue": "Movie"
+        },
+        {
+            "word": "Toy Story",
+            "clue": "Movie"
+        },
+        {
+            "word": "The Shawshank Redemption",
+            "clue": "Movie"
+        },
+        {
+            "word": "Schindler's List",
+            "clue": "Movie"
+        },
+        {
+            "word": "The Lord of the Rings",
+            "clue": "Movie"
+        },
+        {
+            "word": "Gladiator",
+            "clue": "Movie"
+        },
+        {
+            "word": "The Departed",
+            "clue": "Movie"
+        },
+        {
+            "word": "Inception",
+            "clue": "Movie"
+        },
+        {
+            "word": "Interstellar",
+            "clue": "Movie"
+        },
+        {
+            "word": "Parasite",
+            "clue": "Movie"
+        },
+        {
+            "word": "Joker",
+            "clue": "Movie"
+        },
+        {
+            "word": "Black Panther",
+            "clue": "Movie"
+        },
+        {
+            "word": "Spider-Man: No Way Home",
+            "clue": "Movie"
+        },
+        {
+            "word": "Top Gun: Maverick",
+            "clue": "Movie"
+        },
+        {
+            "word": "Oppenheimer",
+            "clue": "Movie"
+        },
+        {
+            "word": "Barbie",
+            "clue": "Movie"
+        },
+        {
+            "word": "The Super Mario Bros. Movie",
+            "clue": "Movie"
+        },
+        {
+            "word": "Guardians of the Galaxy",
+            "clue": "Movie"
+        },
+        {
+            "word": "Deadpool",
+            "clue": "Movie"
+        },
+        {
+            "word": "Wonder Woman",
+            "clue": "Movie"
+        },
+        {
+            "word": "The Hunger Games",
+            "clue": "Movie"
+        },
+        {
+            "word": "Harry Potter",
+            "clue": "Movie"
+        },
+        {
+            "word": "Pirates of the Caribbean",
+            "clue": "Movie"
+        },
+        {
+            "word": "Transformers",
+            "clue": "Movie"
+        },
+        {
+            "word": "Fast & Furious",
+            "clue": "Movie"
+        },
+        {
+            "word": "Mission: Impossible",
+            "clue": "Movie"
+        },
+        {
+            "word": "James Bond",
+            "clue": "Movie"
+        },
+        {
+            "word": "Indiana Jones",
+            "clue": "Movie"
+        },
+        {
+            "word": "Star Trek",
+            "clue": "Movie"
+        },
+        {
+            "word": "Ghostbusters",
+            "clue": "Movie"
+        },
+        {
+            "word": "Die Hard",
+            "clue": "Movie"
+        },
+        {
+            "word": "Terminator",
+            "clue": "Movie"
+        },
+        {
+            "word": "Alien",
+            "clue": "Movie"
+        },
+        {
+            "word": "Predator",
+            "clue": "Movie"
+        },
+        {
+            "word": "Rocky",
+            "clue": "Movie"
+        },
+        {
+            "word": "Rambo",
+            "clue": "Movie"
+        },
+        {
+            "word": "Top Gun",
+            "clue": "Movie"
+        },
+        {
+            "word": "Ford Mustang",
+            "clue": "Car"
+        },
+        {
+            "word": "Chevrolet Corvette",
+            "clue": "Car"
+        },
+        {
+            "word": "Porsche 911",
+            "clue": "Car"
+        },
+        {
+            "word": "BMW M3",
+            "clue": "Car"
+        },
+        {
+            "word": "Mercedes-Benz C-Class",
+            "clue": "Car"
+        },
+        {
+            "word": "Toyota Camry",
+            "clue": "Car"
+        },
+        {
+            "word": "Honda Civic",
+            "clue": "Car"
+        },
+        {
+            "word": "Tesla Model 3",
+            "clue": "Car"
+        },
+        {
+            "word": "Audi A4",
+            "clue": "Car"
+        },
+        {
+            "word": "Volkswagen Golf",
+            "clue": "Car"
+        },
+        {
+            "word": "Lamborghini Aventador",
+            "clue": "Car"
+        },
+        {
+            "word": "Ferrari 488",
+            "clue": "Car"
+        },
+        {
+            "word": "Bugatti Chiron",
+            "clue": "Car"
+        },
+        {
+            "word": "Rolls-Royce Phantom",
+            "clue": "Car"
+        },
+        {
+            "word": "Bentley Continental GT",
+            "clue": "Car"
+        },
+        {
+            "word": "Mazda MX-5",
+            "clue": "Car"
+        },
+        {
+            "word": "Subaru WRX",
+            "clue": "Car"
+        },
+        {
+            "word": "Nissan GT-R",
+            "clue": "Car"
+        },
+        {
+            "word": "Hyundai Sonata",
+            "clue": "Car"
+        },
+        {
+            "word": "Kia Optima",
+            "clue": "Car"
+        },
+        {
+            "word": "Jeep Wrangler",
+            "clue": "Car"
+        },
+        {
+            "word": "Ford F-150",
+            "clue": "Car"
+        },
+        {
+            "word": "Chevrolet Silverado",
+            "clue": "Car"
+        },
+        {
+            "word": "Ram 1500",
+            "clue": "Car"
+        },
+        {
+            "word": "Toyota Tacoma",
+            "clue": "Car"
+        },
+        {
+            "word": "Honda CR-V",
+            "clue": "Car"
+        },
+        {
+            "word": "Toyota RAV4",
+            "clue": "Car"
+        },
+        {
+            "word": "Nissan Rogue",
+            "clue": "Car"
+        },
+        {
+            "word": "Mazda CX-5",
+            "clue": "Car"
+        },
+        {
+            "word": "Subaru Outback",
+            "clue": "Car"
+        },
+        {
+            "word": "Tesla Model S",
+            "clue": "Car"
+        },
+        {
+            "word": "Tesla Model X",
+            "clue": "Car"
+        },
+        {
+            "word": "Tesla Model Y",
+            "clue": "Car"
+        },
+        {
+            "word": "Rivian R1T",
+            "clue": "Car"
+        },
+        {
+            "word": "Lucid Air",
+            "clue": "Car"
+        },
+        {
+            "word": "GMC Hummer EV",
+            "clue": "Car"
+        },
+        {
+            "word": "Ford Bronco",
+            "clue": "Car"
+        },
+        {
+            "word": "Land Rover Defender",
+            "clue": "Car"
+        },
+        {
+            "word": "Mercedes-Benz G-Class",
+            "clue": "Car"
+        },
+        {
+            "word": "Porsche Cayenne",
+            "clue": "Car"
+        },
+        {
+            "word": "BMW X5",
+            "clue": "Car"
+        },
+        {
+            "word": "Audi Q7",
+            "clue": "Car"
+        },
+        {
+            "word": "Volvo XC90",
+            "clue": "Car"
+        },
+        {
+            "word": "Lexus RX",
+            "clue": "Car"
+        },
+        {
+            "word": "Acura MDX",
+            "clue": "Car"
+        },
+        {
+            "word": "Infiniti QX60",
+            "clue": "Car"
+        },
+        {
+            "word": "Cadillac Escalade",
+            "clue": "Car"
+        },
+        {
+            "word": "Lincoln Navigator",
+            "clue": "Car"
+        },
+        {
+            "word": "Jeep Grand Cherokee",
+            "clue": "Car"
+        },
+        {
+            "word": "Toyota Highlander",
+            "clue": "Car"
+        },
+        {
+            "word": "The Legend of Zelda",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Super Mario Bros.",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Grand Theft Auto V",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Minecraft",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Call of Duty",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Fortnite",
+            "clue": "Video Game"
+        },
+        {
+            "word": "League of Legends",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Dota 2",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Counter-Strike",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Overwatch",
+            "clue": "Video Game"
+        },
+        {
+            "word": "World of Warcraft",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Final Fantasy VII",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Pok\u00e9mon Red and Blue",
+            "clue": "Video Game"
+        },
+        {
+            "word": "The Elder Scrolls V: Skyrim",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Red Dead Redemption 2",
+            "clue": "Video Game"
+        },
+        {
+            "word": "God of War",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Spider-Man",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Assassin's Creed",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Dark Souls",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Bloodborne",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Sekiro: Shadows Die Twice",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Elden Ring",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Cyberpunk 2077",
+            "clue": "Video Game"
+        },
+        {
+            "word": "The Witcher 3: Wild Hunt",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Mass Effect 2",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Halo: Combat Evolved",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Half-Life 2",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Portal 2",
+            "clue": "Video Game"
+        },
+        {
+            "word": "BioShock",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Fallout 3",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Grand Theft Auto: San Andreas",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Metal Gear Solid",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Resident Evil 4",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Silent Hill 2",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Super Mario 64",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Ocarina of Time",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Majora's Mask",
+            "clue": "Video Game"
+        },
+        {
+            "word": "A Link to the Past",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Super Metroid",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Castlevania: Symphony of the Night",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Chrono Trigger",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Final Fantasy VI",
+            "clue": "Video Game"
+        },
+        {
+            "word": "EarthBound",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Street Fighter II",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Mortal Kombat",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Tekken 3",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Soulcalibur",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Super Smash Bros.",
+            "clue": "Video Game"
+        },
+        {
+            "word": "Mario Kart 64",
+            "clue": "Video Game"
+        },
+        {
+            "word": "GoldenEye 007",
+            "clue": "Video Game"
+        },
+        {
+            "word": "iPhone",
+            "clue": "Tech"
+        },
+        {
+            "word": "Samsung Galaxy",
+            "clue": "Tech"
+        },
+        {
+            "word": "Google Pixel",
+            "clue": "Tech"
+        },
+        {
+            "word": "Apple Watch",
+            "clue": "Tech"
+        },
+        {
+            "word": "Fitbit",
+            "clue": "Tech"
+        },
+        {
+            "word": "AirPods",
+            "clue": "Tech"
+        },
+        {
+            "word": "Galaxy Buds",
+            "clue": "Tech"
+        },
+        {
+            "word": "Amazon Echo",
+            "clue": "Tech"
+        },
+        {
+            "word": "Google Home",
+            "clue": "Tech"
+        },
+        {
+            "word": "PlayStation 5",
+            "clue": "Tech"
+        },
+        {
+            "word": "Xbox Series X",
+            "clue": "Tech"
+        },
+        {
+            "word": "Nintendo Switch",
+            "clue": "Tech"
+        },
+        {
+            "word": "Oculus Quest 2",
+            "clue": "Tech"
+        },
+        {
+            "word": "Meta Quest 3",
+            "clue": "Tech"
+        },
+        {
+            "word": "HTC Vive",
+            "clue": "Tech"
+        },
+        {
+            "word": "Microsoft Windows",
+            "clue": "Tech"
+        },
+        {
+            "word": "macOS",
+            "clue": "Tech"
+        },
+        {
+            "word": "Linux",
+            "clue": "Tech"
+        },
+        {
+            "word": "Android",
+            "clue": "Tech"
+        },
+        {
+            "word": "iOS",
+            "clue": "Tech"
+        },
+        {
+            "word": "Artificial Intelligence",
+            "clue": "Tech"
+        },
+        {
+            "word": "Machine Learning",
+            "clue": "Tech"
+        },
+        {
+            "word": "Virtual Reality",
+            "clue": "Tech"
+        },
+        {
+            "word": "Augmented Reality",
+            "clue": "Tech"
+        },
+        {
+            "word": "Blockchain",
+            "clue": "Tech"
+        },
+        {
+            "word": "Cryptocurrency",
+            "clue": "Tech"
+        },
+        {
+            "word": "5G",
+            "clue": "Tech"
+        },
+        {
+            "word": "Wi-Fi 6",
+            "clue": "Tech"
+        },
+        {
+            "word": "USB-C",
+            "clue": "Tech"
+        },
+        {
+            "word": "HDMI",
+            "clue": "Tech"
+        },
+        {
+            "word": "SSD",
+            "clue": "Tech"
+        },
+        {
+            "word": "RAM",
+            "clue": "Tech"
+        },
+        {
+            "word": "CPU",
+            "clue": "Tech"
+        },
+        {
+            "word": "GPU",
+            "clue": "Tech"
+        },
+        {
+            "word": "Motherboard",
+            "clue": "Tech"
+        },
+        {
+            "word": "Router",
+            "clue": "Tech"
+        },
+        {
+            "word": "Modem",
+            "clue": "Tech"
+        },
+        {
+            "word": "Server",
+            "clue": "Tech"
+        },
+        {
+            "word": "Cloud Computing",
+            "clue": "Tech"
+        },
+        {
+            "word": "Big Data",
+            "clue": "Tech"
+        },
+        {
+            "word": "Internet of Things",
+            "clue": "Tech"
+        },
+        {
+            "word": "Smart Home",
+            "clue": "Tech"
+        },
+        {
+            "word": "Wearable Technology",
+            "clue": "Tech"
+        },
+        {
+            "word": "Autonomous Vehicle",
+            "clue": "Tech"
+        },
+        {
+            "word": "SpaceX",
+            "clue": "Tech"
+        },
+        {
+            "word": "NASA",
+            "clue": "Tech"
+        },
+        {
+            "word": "Tesla",
+            "clue": "Tech"
+        },
+        {
+            "word": "Apple",
+            "clue": "Tech"
+        },
+        {
+            "word": "Microsoft",
+            "clue": "Tech"
+        },
+        {
+            "word": "Google",
+            "clue": "Tech"
+        },
+        {
+            "word": "Amazon",
+            "clue": "Tech"
+        },
+        {
+            "word": "Naruto",
+            "clue": "Anime"
+        },
+        {
+            "word": "One Piece",
+            "clue": "Anime"
+        },
+        {
+            "word": "Attack on Titan",
+            "clue": "Anime"
+        },
+        {
+            "word": "Demon Slayer",
+            "clue": "Anime"
+        },
+        {
+            "word": "My Hero Academia",
+            "clue": "Anime"
+        },
+        {
+            "word": "Dragon Ball Z",
+            "clue": "Anime"
+        },
+        {
+            "word": "Sailor Moon",
+            "clue": "Anime"
+        },
+        {
+            "word": "Pok\u00e9mon",
+            "clue": "Anime"
+        },
+        {
+            "word": "Neon Genesis Evangelion",
+            "clue": "Anime"
+        },
+        {
+            "word": "Spirited Away",
+            "clue": "Anime"
+        },
+        {
+            "word": "Princess Mononoke",
+            "clue": "Anime"
+        },
+        {
+            "word": "Your Name",
+            "clue": "Anime"
+        },
+        {
+            "word": "Weathering with You",
+            "clue": "Anime"
+        },
+        {
+            "word": "A Silent Voice",
+            "clue": "Anime"
+        },
+        {
+            "word": "Fullmetal Alchemist: Brotherhood",
+            "clue": "Anime"
+        },
+        {
+            "word": "Death Note",
+            "clue": "Anime"
+        },
+        {
+            "word": "Code Geass",
+            "clue": "Anime"
+        },
+        {
+            "word": "Cowboy Bebop",
+            "clue": "Anime"
+        },
+        {
+            "word": "Samurai Champloo",
+            "clue": "Anime"
+        },
+        {
+            "word": "Hunter x Hunter",
+            "clue": "Anime"
+        },
+        {
+            "word": "Yu Yu Hakusho",
+            "clue": "Anime"
+        },
+        {
+            "word": "Rurouni Kenshin",
+            "clue": "Anime"
+        },
+        {
+            "word": "Inuyasha",
+            "clue": "Anime"
+        },
+        {
+            "word": "Bleach",
+            "clue": "Anime"
+        },
+        {
+            "word": "Fairy Tail",
+            "clue": "Anime"
+        },
+        {
+            "word": "Sword Art Online",
+            "clue": "Anime"
+        },
+        {
+            "word": "No Game No Life",
+            "clue": "Anime"
+        },
+        {
+            "word": "Re:Zero",
+            "clue": "Anime"
+        },
+        {
+            "word": "Konosuba",
+            "clue": "Anime"
+        },
+        {
+            "word": "That Time I Got Reincarnated as a Slime",
+            "clue": "Anime"
+        },
+        {
+            "word": "Jujutsu Kaisen",
+            "clue": "Anime"
+        },
+        {
+            "word": "Tokyo Revengers",
+            "clue": "Anime"
+        },
+        {
+            "word": "Vinland Saga",
+            "clue": "Anime"
+        },
+        {
+            "word": "Berserk",
+            "clue": "Anime"
+        },
+        {
+            "word": "One Punch Man",
+            "clue": "Anime"
+        },
+        {
+            "word": "Mob Psycho 100",
+            "clue": "Anime"
+        },
+        {
+            "word": "My Neighbor Totoro",
+            "clue": "Anime"
+        },
+        {
+            "word": "Kiki's Delivery Service",
+            "clue": "Anime"
+        },
+        {
+            "word": "Howl's Moving Castle",
+            "clue": "Anime"
+        },
+        {
+            "word": "Ponyo",
+            "clue": "Anime"
+        },
+        {
+            "word": "The Wind Rises",
+            "clue": "Anime"
+        },
+        {
+            "word": "Grave of the Fireflies",
+            "clue": "Anime"
+        },
+        {
+            "word": "Akira",
+            "clue": "Anime"
+        },
+        {
+            "word": "Ghost in the Shell",
+            "clue": "Anime"
+        },
+        {
+            "word": "Perfect Blue",
+            "clue": "Anime"
+        },
+        {
+            "word": "Paprika",
+            "clue": "Anime"
+        },
+        {
+            "word": "Millennium Actress",
+            "clue": "Anime"
+        },
+        {
+            "word": "Tokyo Godfathers",
+            "clue": "Anime"
+        },
+        {
+            "word": "5 Centimeters per Second",
+            "clue": "Anime"
+        },
+        {
+            "word": "The Garden of Words",
+            "clue": "Anime"
+        },
+        {
+            "word": "Pizza",
+            "clue": "Food"
+        },
+        {
+            "word": "Burger",
+            "clue": "Food"
+        },
+        {
+            "word": "Sushi",
+            "clue": "Food"
+        },
+        {
+            "word": "Tacos",
+            "clue": "Food"
+        },
+        {
+            "word": "Pasta",
+            "clue": "Food"
+        },
+        {
+            "word": "Steak",
+            "clue": "Food"
+        },
+        {
+            "word": "Fries",
+            "clue": "Food"
+        },
+        {
+            "word": "Ice Cream",
+            "clue": "Food"
+        },
+        {
+            "word": "Chocolate",
+            "clue": "Food"
+        },
+        {
+            "word": "Cake",
+            "clue": "Food"
+        },
+        {
+            "word": "Donuts",
+            "clue": "Food"
+        },
+        {
+            "word": "Pancakes",
+            "clue": "Food"
+        },
+        {
+            "word": "Waffles",
+            "clue": "Food"
+        },
+        {
+            "word": "Eggs Benedict",
+            "clue": "Food"
+        },
+        {
+            "word": "Ramen",
+            "clue": "Food"
+        },
+        {
+            "word": "Pho",
+            "clue": "Food"
+        },
+        {
+            "word": "Pad Thai",
+            "clue": "Food"
+        },
+        {
+            "word": "Biryani",
+            "clue": "Food"
+        },
+        {
+            "word": "Tandoori Chicken",
+            "clue": "Food"
+        },
+        {
+            "word": "Curry",
+            "clue": "Food"
+        },
+        {
+            "word": "Lasagna",
+            "clue": "Food"
+        },
+        {
+            "word": "Risotto",
+            "clue": "Food"
+        },
+        {
+            "word": "Paella",
+            "clue": "Food"
+        },
+        {
+            "word": "Croissant",
+            "clue": "Food"
+        },
+        {
+            "word": "Baguette",
+            "clue": "Food"
+        },
+        {
+            "word": "Tiramisu",
+            "clue": "Food"
+        },
+        {
+            "word": "Gelato",
+            "clue": "Food"
+        },
+        {
+            "word": "Cannoli",
+            "clue": "Food"
+        },
+        {
+            "word": "Cheesecake",
+            "clue": "Food"
+        },
+        {
+            "word": "Brownies",
+            "clue": "Food"
+        },
+        {
+            "word": "Cookies",
+            "clue": "Food"
+        },
+        {
+            "word": "Muffins",
+            "clue": "Food"
+        },
+        {
+            "word": "Cupcakes",
+            "clue": "Food"
+        },
+        {
+            "word": "Pie",
+            "clue": "Food"
+        },
+        {
+            "word": "Cobbler",
+            "clue": "Food"
+        },
+        {
+            "word": "Crisp",
+            "clue": "Food"
+        },
+        {
+            "word": "Crumble",
+            "clue": "Food"
+        },
+        {
+            "word": "S'mores",
+            "clue": "Food"
+        },
+        {
+            "word": "Cotton Candy",
+            "clue": "Food"
+        },
+        {
+            "word": "Popcorn",
+            "clue": "Food"
+        },
+        {
+            "word": "Pretzel",
+            "clue": "Food"
+        },
+        {
+            "word": "Nachos",
+            "clue": "Food"
+        },
+        {
+            "word": "Quesadilla",
+            "clue": "Food"
+        },
+        {
+            "word": "Burrito",
+            "clue": "Food"
+        },
+        {
+            "word": "Enchilada",
+            "clue": "Food"
+        },
+        {
+            "word": "Chimichanga",
+            "clue": "Food"
+        },
+        {
+            "word": "Fajitas",
+            "clue": "Food"
+        },
+        {
+            "word": "Guacamole",
+            "clue": "Food"
+        },
+        {
+            "word": "Salsa",
+            "clue": "Food"
+        },
+        {
+            "word": "Pico de Gallo",
+            "clue": "Food"
+        },
+        {
+            "word": "The Beatles",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "The Rolling Stones",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Queen",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Led Zeppelin",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Pink Floyd",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Michael Jackson",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Madonna",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Prince",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Stevie Wonder",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Elton John",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Billy Joel",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Bruce Springsteen",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "David Bowie",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Bob Dylan",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Bob Marley",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Whitney Houston",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Mariah Carey",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Celine Dion",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Beyonc\u00e9",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Taylor Swift",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Adele",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Rihanna",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Katy Perry",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Lady Gaga",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Ariana Grande",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Billie Eilish",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Olivia Rodrigo",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Drake",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Kanye West",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Jay-Z",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Eminem",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Kendrick Lamar",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Post Malone",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "The Weeknd",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Bruno Mars",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Justin Bieber",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Ed Sheeran",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Coldplay",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "U2",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Radiohead",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Nirvana",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Metallica",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Guns N' Roses",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "AC/DC",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Red Hot Chili Peppers",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Foo Fighters",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Linkin Park",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Maroon 5",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Imagine Dragons",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "BTS",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Blackpink",
+            "clue": "Music/Singer"
+        },
+        {
+            "word": "Lea Salonga",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Manny Pacquiao",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Marian Rivera",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Dingdong Dantes",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Anne Curtis",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Vice Ganda",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Coco Martin",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Sarah Geronimo",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Piolo Pascual",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Angel Locsin",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Kathryn Bernardo",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Daniel Padilla",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Liza Soberano",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Enrique Gil",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Maine Mendoza",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Alden Richards",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Judy Ann Santos",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Ryan Agoncillo",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Sharon Cuneta",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Gabby Concepcion",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Regine Velasquez",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Ogie Alcasid",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Jose Mari Chan",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Aga Muhlach",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Charlene Gonzales",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Richard Gomez",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Dawn Zulueta",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Vilma Santos",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Christopher de Leon",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Nora Aunor",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Tirso Cruz III",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Gloria Romero",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Eddie Garcia",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Susan Roces",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Fernando Poe Jr.",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Dolphy",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Pia Wurtzbach",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Catriona Gray",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Hidilyn Diaz",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Carlos Yulo",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Manny Villar",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Imee Marcos",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Bongbong Marcos",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Sarah Duterte",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Robin Padilla",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Toni Gonzaga",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Alex Gonzaga",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Luis Manzano",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Jessy Mendiola",
+            "clue": "Filipino Celebrity"
+        },
+        {
+            "word": "Ferrari",
+            "clue": "Cars"
+        },
+        {
+            "word": "Lamborghini",
+            "clue": "Cars"
+        },
+        {
+            "word": "Super Mario",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Tiger Woods",
+            "clue": "Sports"
+        },
+        {
+            "word": "Porsche",
+            "clue": "Cars"
+        },
+        {
+            "word": "Roger Federer",
+            "clue": "Sports"
+        },
+        {
+            "word": "Elvis Presley",
+            "clue": "Music / Singers"
+        },
+        {
+            "word": "Lionel Messi",
+            "clue": "Sports"
+        },
+        {
+            "word": "Grand Theft Auto",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Burgers",
+            "clue": "Food"
+        },
+        {
+            "word": "Serena Williams",
+            "clue": "Sports"
+        },
+        {
+            "word": "Tom Brady",
+            "clue": "Sports"
+        },
+        {
+            "word": "Cybersecurity",
+            "clue": "Tech"
+        },
+        {
+            "word": "Usain Bolt",
+            "clue": "Sports"
+        },
+        {
+            "word": "Pokemon",
+            "clue": "Anime"
+        },
+        {
+            "word": "Rafael Nadal",
+            "clue": "Sports"
+        },
+        {
+            "word": "BMW",
+            "clue": "Cars"
+        },
+        {
+            "word": "Fullmetal Alchemist",
+            "clue": "Anime"
+        },
+        {
+            "word": "Michael Phelps",
+            "clue": "Sports"
+        },
+        {
+            "word": "Mercedes-Benz",
+            "clue": "Cars"
+        },
+        {
+            "word": "Quantum Computing",
+            "clue": "Tech"
+        },
+        {
+            "word": "Bea Alonzo",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Simone Biles",
+            "clue": "Sports"
+        },
+        {
+            "word": "Audi",
+            "clue": "Cars"
+        },
+        {
+            "word": "Red Dead Redemption",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Nanotechnology",
+            "clue": "Tech"
+        },
+        {
+            "word": "Volkswagen",
+            "clue": "Cars"
+        },
+        {
+            "word": "Halo",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Biometrics",
+            "clue": "Tech"
+        },
+        {
+            "word": "Sandwich",
+            "clue": "Food"
+        },
+        {
+            "word": "Wayne Gretzky",
+            "clue": "Sports"
+        },
+        {
+            "word": "Nissan",
+            "clue": "Cars"
+        },
+        {
+            "word": "Drones",
+            "clue": "Tech"
+        },
+        {
+            "word": "Soup",
+            "clue": "Food"
+        },
+        {
+            "word": "Angelica Panganiban",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Fight Club",
+            "clue": "Movies"
+        },
+        {
+            "word": "Subaru",
+            "clue": "Cars"
+        },
+        {
+            "word": "3D Printing",
+            "clue": "Tech"
+        },
+        {
+            "word": "Salad",
+            "clue": "Food"
+        },
+        {
+            "word": "John Lloyd Cruz",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Hyundai",
+            "clue": "Cars"
+        },
+        {
+            "word": "Final Fantasy",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Robotics",
+            "clue": "Tech"
+        },
+        {
+            "word": "Tokyo Ghoul",
+            "clue": "Anime"
+        },
+        {
+            "word": "Cristiano Ronaldo",
+            "clue": "Sports"
+        },
+        {
+            "word": "Kia",
+            "clue": "Cars"
+        },
+        {
+            "word": "Resident Evil",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Self-Driving Cars",
+            "clue": "Tech"
+        },
+        {
+            "word": "Novak Djokovic",
+            "clue": "Sports"
+        },
+        {
+            "word": "The Silence of the Lambs",
+            "clue": "Movies"
+        },
+        {
+            "word": "Mazda",
+            "clue": "Cars"
+        },
+        {
+            "word": "Smart Contracts",
+            "clue": "Tech"
+        },
+        {
+            "word": "Tapas",
+            "clue": "Food"
+        },
+        {
+            "word": "Lewis Hamilton",
+            "clue": "Sports"
+        },
+        {
+            "word": "Casablanca",
+            "clue": "Movies"
+        },
+        {
+            "word": "Land Rover",
+            "clue": "Cars"
+        },
+        {
+            "word": "Mass Effect",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Dim Sum",
+            "clue": "Food"
+        },
+        {
+            "word": "Neymar",
+            "clue": "Sports"
+        },
+        {
+            "word": "Good Will Hunting",
+            "clue": "Movies"
+        },
+        {
+            "word": "Jaguar",
+            "clue": "Cars"
+        },
+        {
+            "word": "Virtual Assistants",
+            "clue": "Tech"
+        },
+        {
+            "word": "Alex Ovechkin",
+            "clue": "Sports"
+        },
+        {
+            "word": "The Grand Budapest Hotel",
+            "clue": "Movies"
+        },
+        {
+            "word": "Volvo",
+            "clue": "Cars"
+        },
+        {
+            "word": "Borderlands",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Edge Computing",
+            "clue": "Tech"
+        },
+        {
+            "word": "Patrick Mahomes",
+            "clue": "Sports"
+        },
+        {
+            "word": "Eternal Sunshine of the Spotless Mind",
+            "clue": "Movies"
+        },
+        {
+            "word": "Mini Cooper",
+            "clue": "Cars"
+        },
+        {
+            "word": "Extended Reality",
+            "clue": "Tech"
+        },
+        {
+            "word": "Fruits Basket",
+            "clue": "Anime"
+        },
+        {
+            "word": "Ravioli",
+            "clue": "Food"
+        },
+        {
+            "word": "Mike Trout",
+            "clue": "Sports"
+        },
+        {
+            "word": "Amelie",
+            "clue": "Movies"
+        },
+        {
+            "word": "Fiat",
+            "clue": "Cars"
+        },
+        {
+            "word": "The Witcher",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Natural Language Processing",
+            "clue": "Tech"
+        },
+        {
+            "word": "Black Clover",
+            "clue": "Anime"
+        },
+        {
+            "word": "Shohei Ohtani",
+            "clue": "Sports"
+        },
+        {
+            "word": "The Princess Bride",
+            "clue": "Movies"
+        },
+        {
+            "word": "Jeep",
+            "clue": "Cars"
+        },
+        {
+            "word": "Devil May Cry",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Digital Twins",
+            "clue": "Tech"
+        },
+        {
+            "word": "Toradora!",
+            "clue": "Anime"
+        },
+        {
+            "word": "Shawarma",
+            "clue": "Food"
+        },
+        {
+            "word": "Connor McDavid",
+            "clue": "Sports"
+        },
+        {
+            "word": "Moulin Rouge!",
+            "clue": "Movies"
+        },
+        {
+            "word": "Citro\u00ebn",
+            "clue": "Cars"
+        },
+        {
+            "word": "Kingdom Hearts",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Generative AI",
+            "clue": "Tech"
+        },
+        {
+            "word": "Clannad",
+            "clue": "Anime"
+        },
+        {
+            "word": "Gyro",
+            "clue": "Food"
+        },
+        {
+            "word": "Max Verstappen",
+            "clue": "Sports"
+        },
+        {
+            "word": "The Devil Wears Prada",
+            "clue": "Movies"
+        },
+        {
+            "word": "Peugeot",
+            "clue": "Cars"
+        },
+        {
+            "word": "Monster Hunter",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Human-Computer Interaction",
+            "clue": "Tech"
+        },
+        {
+            "word": "Falafel",
+            "clue": "Food"
+        },
+        {
+            "word": "Naomi Osaka",
+            "clue": "Sports"
+        },
+        {
+            "word": "The Truman Show",
+            "clue": "Movies"
+        },
+        {
+            "word": "Renault",
+            "clue": "Cars"
+        },
+        {
+            "word": "NieR:Automata",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Open Source",
+            "clue": "Tech"
+        },
+        {
+            "word": "Violet Evergarden",
+            "clue": "Anime"
+        },
+        {
+            "word": "Hummus",
+            "clue": "Food"
+        },
+        {
+            "word": "Lost in Translation",
+            "clue": "Movies"
+        },
+        {
+            "word": "Skoda",
+            "clue": "Cars"
+        },
+        {
+            "word": "Control",
+            "clue": "Video Games"
+        },
+        {
+            "word": "UX/UI Design",
+            "clue": "Tech"
+        },
+        {
+            "word": "Tabbouleh",
+            "clue": "Food"
+        },
+        {
+            "word": "Lamar Jackson",
+            "clue": "Sports"
+        },
+        {
+            "word": "Her",
+            "clue": "Movies"
+        },
+        {
+            "word": "Opel",
+            "clue": "Cars"
+        },
+        {
+            "word": "Hollow Knight",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Agile Development",
+            "clue": "Tech"
+        },
+        {
+            "word": "Anohana: The Flower We Saw That Day",
+            "clue": "Anime"
+        },
+        {
+            "word": "Kofta",
+            "clue": "Food"
+        },
+        {
+            "word": "Katie Ledecky",
+            "clue": "Sports"
+        },
+        {
+            "word": "Arrival",
+            "clue": "Movies"
+        },
+        {
+            "word": "Saab",
+            "clue": "Cars"
+        },
+        {
+            "word": "Hades",
+            "clue": "Video Games"
+        },
+        {
+            "word": "DevOps",
+            "clue": "Tech"
+        },
+        {
+            "word": "Made in Abyss",
+            "clue": "Anime"
+        },
+        {
+            "word": "Dolmades",
+            "clue": "Food"
+        },
+        {
+            "word": "Aretha Franklin",
+            "clue": "Music / Singers"
+        },
+        {
+            "word": "Patrick Kane",
+            "clue": "Sports"
+        },
+        {
+            "word": "Moonlight",
+            "clue": "Movies"
+        },
+        {
+            "word": "Dodge",
+            "clue": "Cars"
+        },
+        {
+            "word": "Celeste",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Data Science",
+            "clue": "Tech"
+        },
+        {
+            "word": "March Comes in Like a Lion",
+            "clue": "Anime"
+        },
+        {
+            "word": "Spanakopita",
+            "clue": "Food"
+        },
+        {
+            "word": "Marvin Gaye",
+            "clue": "Music / Singers"
+        },
+        {
+            "word": "Gervonta Davis",
+            "clue": "Sports"
+        },
+        {
+            "word": "Chrysler",
+            "clue": "Cars"
+        },
+        {
+            "word": "Disco Elysium",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Mushishi",
+            "clue": "Anime"
+        },
+        {
+            "word": "Moussaka",
+            "clue": "Food"
+        },
+        {
+            "word": "12 Years a Slave",
+            "clue": "Movies"
+        },
+        {
+            "word": "Lincoln",
+            "clue": "Cars"
+        },
+        {
+            "word": "Outer Wilds",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Deep Learning",
+            "clue": "Tech"
+        },
+        {
+            "word": "Natsume's Book of Friends",
+            "clue": "Anime"
+        },
+        {
+            "word": "Souvlaki",
+            "clue": "Food"
+        },
+        {
+            "word": "Tina Turner",
+            "clue": "Music / Singers"
+        },
+        {
+            "word": "Aaron Donald",
+            "clue": "Sports"
+        },
+        {
+            "word": "No Country for Old Men",
+            "clue": "Movies"
+        },
+        {
+            "word": "Cadillac",
+            "clue": "Cars"
+        },
+        {
+            "word": "Return of the Obra Dinn",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Computer Vision",
+            "clue": "Tech"
+        },
+        {
+            "word": "Hyouka",
+            "clue": "Anime"
+        },
+        {
+            "word": "Baklava",
+            "clue": "Food"
+        },
+        {
+            "word": "Ray Charles",
+            "clue": "Music / Singers"
+        },
+        {
+            "word": "Canelo \u00c1lvarez",
+            "clue": "Sports"
+        },
+        {
+            "word": "The Social Network",
+            "clue": "Movies"
+        },
+        {
+            "word": "Buick",
+            "clue": "Cars"
+        },
+        {
+            "word": "Kentucky Route Zero",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Edge AI",
+            "clue": "Tech"
+        },
+        {
+            "word": "K-On!",
+            "clue": "Anime"
+        },
+        {
+            "word": "Pita",
+            "clue": "Food"
+        },
+        {
+            "word": "Sam Cooke",
+            "clue": "Music / Singers"
+        },
+        {
+            "word": "Chloe Kim",
+            "clue": "Sports"
+        },
+        {
+            "word": "Mad Max: Fury Road",
+            "clue": "Movies"
+        },
+        {
+            "word": "GMC",
+            "clue": "Cars"
+        },
+        {
+            "word": "What Remains of Edith Finch",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Explainable AI",
+            "clue": "Tech"
+        },
+        {
+            "word": "Hibike! Euphonium",
+            "clue": "Anime"
+        },
+        {
+            "word": "Kebab",
+            "clue": "Food"
+        },
+        {
+            "word": "Otis Redding",
+            "clue": "Music / Singers"
+        },
+        {
+            "word": "Alexander Ovechkin",
+            "clue": "Sports"
+        },
+        {
+            "word": "Whiplash",
+            "clue": "Movies"
+        },
+        {
+            "word": "Ram",
+            "clue": "Cars"
+        },
+        {
+            "word": "Federated Learning",
+            "clue": "Tech"
+        },
+        {
+            "word": "A Place Further Than the Universe",
+            "clue": "Anime"
+        },
+        {
+            "word": "Etta James",
+            "clue": "Music / Singers"
+        },
+        {
+            "word": "Panna Cotta",
+            "clue": "Food"
+        },
+        {
+            "word": "Arancini",
+            "clue": "Food"
+        },
+        {
+            "word": "Bruschetta",
+            "clue": "Food"
+        },
+        {
+            "word": "Carbonara",
+            "clue": "Food"
+        },
+        {
+            "word": "Caprese Salad",
+            "clue": "Food"
+        },
+        {
+            "word": "Panzanella",
+            "clue": "Food"
+        },
+        {
+            "word": "Ribollita",
+            "clue": "Food"
+        },
+        {
+            "word": "Osso Buco",
+            "clue": "Food"
+        },
+        {
+            "word": "Polenta",
+            "clue": "Food"
+        },
+        {
+            "word": "Focaccia",
+            "clue": "Food"
+        },
+        {
+            "word": "Suppl\u00ec",
+            "clue": "Food"
+        },
+        {
+            "word": "Panettone",
+            "clue": "Food"
+        },
+        {
+            "word": "Zeppole",
+            "clue": "Food"
+        },
+        {
+            "word": "Cacio e Pepe",
+            "clue": "Food"
+        },
+        {
+            "word": "Your Name.",
+            "clue": "Anime"
+        },
+        {
+            "word": "Assassin'sCreed",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Tim Duncan",
+            "clue": "Sports"
+        },
+        {
+            "word": "Wilt Chamberlain",
+            "clue": "Sports"
+        },
+        {
+            "word": "Hakeem Olajuwon",
+            "clue": "Sports"
+        },
+        {
+            "word": "Charles Barkley",
+            "clue": "Sports"
+        },
+        {
+            "word": "Karl Malone",
+            "clue": "Sports"
+        },
+        {
+            "word": "Kevin Garnett",
+            "clue": "Sports"
+        },
+        {
+            "word": "Julius Erving",
+            "clue": "Sports"
+        },
+        {
+            "word": "Allen Iverson",
+            "clue": "Sports"
+        },
+        {
+            "word": "Scottie Pippen",
+            "clue": "Sports"
+        },
+        {
+            "word": "Pele",
+            "clue": "Sports"
+        },
+        {
+            "word": "Diego Maradona",
+            "clue": "Sports"
+        },
+        {
+            "word": "Zinedine Zidane",
+            "clue": "Sports"
+        },
+        {
+            "word": "Ronaldinho",
+            "clue": "Sports"
+        },
+        {
+            "word": "Thierry Henry",
+            "clue": "Sports"
+        },
+        {
+            "word": "Neymar Jr",
+            "clue": "Sports"
+        },
+        {
+            "word": "Kylian Mbappe",
+            "clue": "Sports"
+        },
+        {
+            "word": "Andres Iniesta",
+            "clue": "Sports"
+        },
+        {
+            "word": "Xavi Hernandez",
+            "clue": "Sports"
+        },
+        {
+            "word": "Sergio Ramos",
+            "clue": "Sports"
+        },
+        {
+            "word": "Robert Lewandowski",
+            "clue": "Sports"
+        },
+        {
+            "word": "Manuel Neuer",
+            "clue": "Sports"
+        },
+        {
+            "word": "Luka Modric",
+            "clue": "Sports"
+        },
+        {
+            "word": "Peyton Manning",
+            "clue": "Sports"
+        },
+        {
+            "word": "Jerry Rice",
+            "clue": "Sports"
+        },
+        {
+            "word": "Lawrence Taylor",
+            "clue": "Sports"
+        },
+        {
+            "word": "Jim Brown",
+            "clue": "Sports"
+        },
+        {
+            "word": "Joe Montana",
+            "clue": "Sports"
+        },
+        {
+            "word": "Aaron Rodgers",
+            "clue": "Sports"
+        },
+        {
+            "word": "Walter Payton",
+            "clue": "Sports"
+        },
+        {
+            "word": "Barry Sanders",
+            "clue": "Sports"
+        },
+        {
+            "word": "Babe Ruth",
+            "clue": "Sports"
+        },
+        {
+            "word": "Willie Mays",
+            "clue": "Sports"
+        },
+        {
+            "word": "Hank Aaron",
+            "clue": "Sports"
+        },
+        {
+            "word": "Ted Williams",
+            "clue": "Sports"
+        },
+        {
+            "word": "Mickey Mantle",
+            "clue": "Sports"
+        },
+        {
+            "word": "Lou Gehrig",
+            "clue": "Sports"
+        },
+        {
+            "word": "Derek Jeter",
+            "clue": "Sports"
+        },
+        {
+            "word": "Ichiro Suzuki",
+            "clue": "Sports"
+        },
+        {
+            "word": "Venus Williams",
+            "clue": "Sports"
+        },
+        {
+            "word": "Andre Agassi",
+            "clue": "Sports"
+        },
+        {
+            "word": "Pete Sampras",
+            "clue": "Sports"
+        },
+        {
+            "word": "Steffi Graf",
+            "clue": "Sports"
+        },
+        {
+            "word": "Jack Nicklaus",
+            "clue": "Sports"
+        },
+        {
+            "word": "Phil Mickelson",
+            "clue": "Sports"
+        },
+        {
+            "word": "Arnold Palmer",
+            "clue": "Sports"
+        },
+        {
+            "word": "Rory McIlroy",
+            "clue": "Sports"
+        },
+        {
+            "word": "Mario Lemieux",
+            "clue": "Sports"
+        },
+        {
+            "word": "Bobby Orr",
+            "clue": "Sports"
+        },
+        {
+            "word": "Sidney Crosby",
+            "clue": "Sports"
+        },
+        {
+            "word": "Carl Lewis",
+            "clue": "Sports"
+        },
+        {
+            "word": "Jesse Owens",
+            "clue": "Sports"
+        },
+        {
+            "word": "Nadia Comaneci",
+            "clue": "Sports"
+        },
+        {
+            "word": "Muhammad Ali",
+            "clue": "Sports"
+        },
+        {
+            "word": "Mike Tyson",
+            "clue": "Sports"
+        },
+        {
+            "word": "Floyd Mayweather",
+            "clue": "Sports"
+        },
+        {
+            "word": "Canelo Alvarez",
+            "clue": "Sports"
+        },
+        {
+            "word": "Sugar Ray Robinson",
+            "clue": "Sports"
+        },
+        {
+            "word": "The Avengers",
+            "clue": "Movies"
+        },
+        {
+            "word": "Jaws",
+            "clue": "Movies"
+        },
+        {
+            "word": "Frozen",
+            "clue": "Movies"
+        },
+        {
+            "word": "Finding Nemo",
+            "clue": "Movies"
+        },
+        {
+            "word": "Goodfellas",
+            "clue": "Movies"
+        },
+        {
+            "word": "Gone with the Wind",
+            "clue": "Movies"
+        },
+        {
+            "word": "Citizen Kane",
+            "clue": "Movies"
+        },
+        {
+            "word": "The Terminator",
+            "clue": "Movies"
+        },
+        {
+            "word": "Blade Runner",
+            "clue": "Movies"
+        },
+        {
+            "word": "The Wizard of Oz",
+            "clue": "Movies"
+        },
+        {
+            "word": "Saving Private Ryan",
+            "clue": "Movies"
+        },
+        {
+            "word": "The Shining",
+            "clue": "Movies"
+        },
+        {
+            "word": "Coco",
+            "clue": "Movies"
+        },
+        {
+            "word": "Inside Out",
+            "clue": "Movies"
+        },
+        {
+            "word": "The Breakfast Club",
+            "clue": "Movies"
+        },
+        {
+            "word": "The Green Mile",
+            "clue": "Movies"
+        },
+        {
+            "word": "The Sixth Sense",
+            "clue": "Movies"
+        },
+        {
+            "word": "La La Land",
+            "clue": "Movies"
+        },
+        {
+            "word": "The Great Gatsby",
+            "clue": "Movies"
+        },
+        {
+            "word": "Dunkirk",
+            "clue": "Movies"
+        },
+        {
+            "word": "Get Out",
+            "clue": "Movies"
+        },
+        {
+            "word": "There Will Be Blood",
+            "clue": "Movies"
+        },
+        {
+            "word": "The Wolf of Wall Street",
+            "clue": "Movies"
+        },
+        {
+            "word": "The Revenant",
+            "clue": "Movies"
+        },
+        {
+            "word": "Inglourious Basterds",
+            "clue": "Movies"
+        },
+        {
+            "word": "Django Unchained",
+            "clue": "Movies"
+        },
+        {
+            "word": "The Prestige",
+            "clue": "Movies"
+        },
+        {
+            "word": "Memento",
+            "clue": "Movies"
+        },
+        {
+            "word": "The Big Lebowski",
+            "clue": "Movies"
+        },
+        {
+            "word": "Scarface",
+            "clue": "Movies"
+        },
+        {
+            "word": "A Beautiful Mind",
+            "clue": "Movies"
+        },
+        {
+            "word": "Rain Man",
+            "clue": "Movies"
+        },
+        {
+            "word": "The King's Speech",
+            "clue": "Movies"
+        },
+        {
+            "word": "Raging Bull",
+            "clue": "Movies"
+        },
+        {
+            "word": "Braveheart",
+            "clue": "Movies"
+        },
+        {
+            "word": "The Godfather Part II",
+            "clue": "Movies"
+        },
+        {
+            "word": "The Exorcist",
+            "clue": "Movies"
+        },
+        {
+            "word": "Psycho",
+            "clue": "Movies"
+        },
+        {
+            "word": "Toyota Supra",
+            "clue": "Cars"
+        },
+        {
+            "word": "Mercedes-Benz S-Class",
+            "clue": "Cars"
+        },
+        {
+            "word": "Audi R8",
+            "clue": "Cars"
+        },
+        {
+            "word": "Dodge Challenger",
+            "clue": "Cars"
+        },
+        {
+            "word": "McLaren P1",
+            "clue": "Cars"
+        },
+        {
+            "word": "Koenigsegg Jesko",
+            "clue": "Cars"
+        },
+        {
+            "word": "Pagani Huayra",
+            "clue": "Cars"
+        },
+        {
+            "word": "Aston Martin DB11",
+            "clue": "Cars"
+        },
+        {
+            "word": "Maserati GranTurismo",
+            "clue": "Cars"
+        },
+        {
+            "word": "Subaru WRX STI",
+            "clue": "Cars"
+        },
+        {
+            "word": "Mitsubishi Lancer Evolution",
+            "clue": "Cars"
+        },
+        {
+            "word": "Lexus LFA",
+            "clue": "Cars"
+        },
+        {
+            "word": "Acura NSX",
+            "clue": "Cars"
+        },
+        {
+            "word": "Jaguar F-Type",
+            "clue": "Cars"
+        },
+        {
+            "word": "Mazda MX-5 Miata",
+            "clue": "Cars"
+        },
+        {
+            "word": "Volkswagen Golf GTI",
+            "clue": "Cars"
+        },
+        {
+            "word": "Alfa Romeo Giulia",
+            "clue": "Cars"
+        },
+        {
+            "word": "Lotus Evora",
+            "clue": "Cars"
+        },
+        {
+            "word": "DeLorean DMC-12",
+            "clue": "Cars"
+        },
+        {
+            "word": "Kia Telluride",
+            "clue": "Cars"
+        },
+        {
+            "word": "Hyundai Palisade",
+            "clue": "Cars"
+        },
+        {
+            "word": "Genesis G90",
+            "clue": "Cars"
+        },
+        {
+            "word": "Tesla Cybertruck",
+            "clue": "Cars"
+        },
+        {
+            "word": "Range Rover",
+            "clue": "Cars"
+        },
+        {
+            "word": "Toyota Land Cruiser",
+            "clue": "Cars"
+        },
+        {
+            "word": "Porsche Taycan",
+            "clue": "Cars"
+        },
+        {
+            "word": "Ferrari LaFerrari",
+            "clue": "Cars"
+        },
+        {
+            "word": "Dodge Viper",
+            "clue": "Cars"
+        },
+        {
+            "word": "Shelby Cobra",
+            "clue": "Cars"
+        },
+        {
+            "word": "Chevrolet Camaro",
+            "clue": "Cars"
+        },
+        {
+            "word": "Pontiac GTO",
+            "clue": "Cars"
+        },
+        {
+            "word": "Plymouth Barracuda",
+            "clue": "Cars"
+        },
+        {
+            "word": "Toyota AE86",
+            "clue": "Cars"
+        },
+        {
+            "word": "BMW i8",
+            "clue": "Cars"
+        },
+        {
+            "word": "Suzuki Jimny",
+            "clue": "Cars"
+        },
+        {
+            "word": "Peugeot 205 GTI",
+            "clue": "Cars"
+        },
+        {
+            "word": "Citroen DS",
+            "clue": "Cars"
+        },
+        {
+            "word": "Fiat 500",
+            "clue": "Cars"
+        },
+        {
+            "word": "Renault Alpine A110",
+            "clue": "Cars"
+        },
+        {
+            "word": "Bugatti Veyron",
+            "clue": "Cars"
+        },
+        {
+            "word": "Honda S2000",
+            "clue": "Cars"
+        },
+        {
+            "word": "Mazda RX-7",
+            "clue": "Cars"
+        },
+        {
+            "word": "Nissan 370Z",
+            "clue": "Cars"
+        },
+        {
+            "word": "Toyota 4Runner",
+            "clue": "Cars"
+        },
+        {
+            "word": "Honda Accord",
+            "clue": "Cars"
+        },
+        {
+            "word": "Super Mario Bros",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Tetris",
+            "clue": "Video Games"
+        },
+        {
+            "word": "The Elder Scrolls",
+            "clue": "Video Games"
+        },
+        {
+            "word": "The Last of Us",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Fallout",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Street Fighter",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Tekken",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Sonic the Hedgehog",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Mega Man",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Pac-Man",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Donkey Kong",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Animal Crossing",
+            "clue": "Video Games"
+        },
+        {
+            "word": "The Sims",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Civilization",
+            "clue": "Video Games"
+        },
+        {
+            "word": "StarCraft",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Diablo",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Destiny",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Far Cry",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Uncharted",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Horizon Zero Dawn",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Ghost of Tsushima",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Death Stranding",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Genshin Impact",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Valorant",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Apex Legends",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Among Us",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Roblox",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Undertale",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Portal",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Half-Life",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Left 4 Dead",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Team Fortress",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Doom",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Wolfenstein",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Metroid",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Castlevania",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Dragon Quest",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Persona",
+            "clue": "Video Games"
+        },
+        {
+            "word": "Yakuza",
+            "clue": "Video Games"
+        },
+        {
+            "word": "MacBook",
+            "clue": "Tech"
+        },
+        {
+            "word": "iPad",
+            "clue": "Tech"
+        },
+        {
+            "word": "Galaxy S21",
+            "clue": "Tech"
+        },
+        {
+            "word": "Surface Pro",
+            "clue": "Tech"
+        },
+        {
+            "word": "Oculus Quest",
+            "clue": "Tech"
+        },
+        {
+            "word": "Tesla Powerwall",
+            "clue": "Tech"
+        },
+        {
+            "word": "GoPro",
+            "clue": "Tech"
+        },
+        {
+            "word": "Dyson",
+            "clue": "Tech"
+        },
+        {
+            "word": "Canon EOS",
+            "clue": "Tech"
+        },
+        {
+            "word": "DJI Mavic",
+            "clue": "Tech"
+        },
+        {
+            "word": "Garmin",
+            "clue": "Tech"
+        },
+        {
+            "word": "Ring Doorbell",
+            "clue": "Tech"
+        },
+        {
+            "word": "Nest Thermostat",
+            "clue": "Tech"
+        },
+        {
+            "word": "Roku",
+            "clue": "Tech"
+        },
+        {
+            "word": "Chromecast",
+            "clue": "Tech"
+        },
+        {
+            "word": "Apple TV",
+            "clue": "Tech"
+        },
+        {
+            "word": "Fire TV Stick",
+            "clue": "Tech"
+        },
+        {
+            "word": "NVIDIA Shield",
+            "clue": "Tech"
+        },
+        {
+            "word": "Sonos",
+            "clue": "Tech"
+        },
+        {
+            "word": "Bose",
+            "clue": "Tech"
+        },
+        {
+            "word": "Sennheiser",
+            "clue": "Tech"
+        },
+        {
+            "word": "JBL",
+            "clue": "Tech"
+        },
+        {
+            "word": "Logitech",
+            "clue": "Tech"
+        },
+        {
+            "word": "Razer",
+            "clue": "Tech"
+        },
+        {
+            "word": "Corsair",
+            "clue": "Tech"
+        },
+        {
+            "word": "ASUS ROG",
+            "clue": "Tech"
+        },
+        {
+            "word": "Alienware",
+            "clue": "Tech"
+        },
+        {
+            "word": "Intel Core",
+            "clue": "Tech"
+        },
+        {
+            "word": "AMD Ryzen",
+            "clue": "Tech"
+        },
+        {
+            "word": "NVIDIA GeForce",
+            "clue": "Tech"
+        },
+        {
+            "word": "AMD Radeon",
+            "clue": "Tech"
+        },
+        {
+            "word": "OnePlus",
+            "clue": "Tech"
+        },
+        {
+            "word": "Xiaomi",
+            "clue": "Tech"
+        },
+        {
+            "word": "HUAWEI",
+            "clue": "Tech"
+        },
+        {
+            "word": "LG",
+            "clue": "Tech"
+        },
+        {
+            "word": "Sony",
+            "clue": "Tech"
+        },
+        {
+            "word": "Philips Hue",
+            "clue": "Tech"
+        },
+        {
+            "word": "Roomba",
+            "clue": "Tech"
+        },
+        {
+            "word": "Instant Pot",
+            "clue": "Tech"
+        },
+        {
+            "word": "Kindle",
+            "clue": "Tech"
+        },
+        {
+            "word": "Raspberry Pi",
+            "clue": "Tech"
+        },
+        {
+            "word": "Arduino",
+            "clue": "Tech"
+        },
+        {
+            "word": "Microsoft Office",
+            "clue": "Tech"
+        },
+        {
+            "word": "Adobe Photoshop",
+            "clue": "Tech"
+        },
+        {
+            "word": "Windows",
+            "clue": "Tech"
+        },
+        {
+            "word": "Chrome",
+            "clue": "Tech"
+        },
+        {
+            "word": "Firefox",
+            "clue": "Tech"
+        },
+        {
+            "word": "Safari",
+            "clue": "Tech"
+        },
+        {
+            "word": "Edge",
+            "clue": "Tech"
+        },
+        {
+            "word": "Spotify",
+            "clue": "Tech"
+        },
+        {
+            "word": "Netflix",
+            "clue": "Tech"
+        },
+        {
+            "word": "YouTube",
+            "clue": "Tech"
+        },
+        {
+            "word": "TikTok",
+            "clue": "Tech"
+        },
+        {
+            "word": "Instagram",
+            "clue": "Tech"
+        },
+        {
+            "word": "Twitter",
+            "clue": "Tech"
+        },
+        {
+            "word": "Facebook",
+            "clue": "Tech"
+        },
+        {
+            "word": "WhatsApp",
+            "clue": "Tech"
+        },
+        {
+            "word": "Telegram",
+            "clue": "Tech"
+        },
+        {
+            "word": "Discord",
+            "clue": "Tech"
+        },
+        {
+            "word": "Slack",
+            "clue": "Tech"
+        },
+        {
+            "word": "Zoom",
+            "clue": "Tech"
+        },
+        {
+            "word": "Steins;Gate",
+            "clue": "Anime"
+        },
+        {
+            "word": "The Promised Neverland",
+            "clue": "Anime"
+        },
+        {
+            "word": "Haikyuu",
+            "clue": "Anime"
+        },
+        {
+            "word": "Kuroko's Basketball",
+            "clue": "Anime"
+        },
+        {
+            "word": "JoJo's Bizarre Adventure",
+            "clue": "Anime"
+        },
+        {
+            "word": "Parasyte",
+            "clue": "Anime"
+        },
+        {
+            "word": "Overlord",
+            "clue": "Anime"
+        },
+        {
+            "word": "Fate/Stay Night",
+            "clue": "Anime"
+        },
+        {
+            "word": "Yuri on Ice",
+            "clue": "Anime"
+        },
+        {
+            "word": "Food Wars",
+            "clue": "Anime"
+        },
+        {
+            "word": "Dr. Stone",
+            "clue": "Anime"
+        },
+        {
+            "word": "The Rising of the Shield Hero",
+            "clue": "Anime"
+        },
+        {
+            "word": "Fire Force",
+            "clue": "Anime"
+        },
+        {
+            "word": "Beastars",
+            "clue": "Anime"
+        },
+        {
+            "word": "Dorohedoro",
+            "clue": "Anime"
+        },
+        {
+            "word": "Psycho-Pass",
+            "clue": "Anime"
+        },
+        {
+            "word": "Durarara",
+            "clue": "Anime"
+        },
+        {
+            "word": "Kill la Kill",
+            "clue": "Anime"
+        },
+        {
+            "word": "Gurren Lagann",
+            "clue": "Anime"
+        },
+        {
+            "word": "FLCL",
+            "clue": "Anime"
+        },
+        {
+            "word": "Monster",
+            "clue": "Anime"
+        },
+        {
+            "word": "Ouran High School Host Club",
+            "clue": "Anime"
+        },
+        {
+            "word": "Your Lie in April",
+            "clue": "Anime"
+        },
+        {
+            "word": "Anohana",
+            "clue": "Anime"
+        },
+        {
+            "word": "Angel Beats",
+            "clue": "Anime"
+        },
+        {
+            "word": "Detective Conan",
+            "clue": "Anime"
+        },
+        {
+            "word": "Yu-Gi-Oh",
+            "clue": "Anime"
+        },
+        {
+            "word": "Beyblade",
+            "clue": "Anime"
+        },
+        {
+            "word": "Digimon",
+            "clue": "Anime"
+        },
+        {
+            "word": "Bakugan",
+            "clue": "Anime"
+        },
+        {
+            "word": "Hamburger",
+            "clue": "Food"
+        },
+        {
+            "word": "Fried Chicken",
+            "clue": "Food"
+        },
+        {
+            "word": "Sashimi",
+            "clue": "Food"
+        },
+        {
+            "word": "Kimchi",
+            "clue": "Food"
+        },
+        {
+            "word": "Bibimbap",
+            "clue": "Food"
+        },
+        {
+            "word": "Sourdough",
+            "clue": "Food"
+        },
+        {
+            "word": "Macarons",
+            "clue": "Food"
+        },
+        {
+            "word": "Butter Chicken",
+            "clue": "Food"
+        },
+        {
+            "word": "Tandoori",
+            "clue": "Food"
+        },
+        {
+            "word": "Naan",
+            "clue": "Food"
+        },
+        {
+            "word": "Tempura",
+            "clue": "Food"
+        },
+        {
+            "word": "Gyoza",
+            "clue": "Food"
+        },
+        {
+            "word": "Takoyaki",
+            "clue": "Food"
+        },
+        {
+            "word": "Adobo",
+            "clue": "Food"
+        },
+        {
+            "word": "Sisig",
+            "clue": "Food"
+        },
+        {
+            "word": "Pancit",
+            "clue": "Food"
+        },
+        {
+            "word": "Lumpia",
+            "clue": "Food"
+        },
+        {
+            "word": "Lechon",
+            "clue": "Food"
+        },
+        {
+            "word": "Halo-halo",
+            "clue": "Food"
+        },
+        {
+            "word": "Sinigang",
+            "clue": "Food"
+        },
+        {
+            "word": "Kare-kare",
+            "clue": "Food"
+        },
+        {
+            "word": "Tapsilog",
+            "clue": "Food"
+        },
+        {
+            "word": "Pandesal",
+            "clue": "Food"
+        },
+        {
+            "word": "Bibingka",
+            "clue": "Food"
+        },
+        {
+            "word": "Ensaymada",
+            "clue": "Food"
+        },
+        {
+            "word": "Empanada",
+            "clue": "Food"
+        },
+        {
+            "word": "Cheeseburger",
+            "clue": "Food"
+        },
+        {
+            "word": "Hot Dog",
+            "clue": "Food"
+        },
+        {
+            "word": "French Fries",
+            "clue": "Food"
+        },
+        {
+            "word": "Onion Rings",
+            "clue": "Food"
+        },
+        {
+            "word": "Buffalo Wings",
+            "clue": "Food"
+        },
+        {
+            "word": "Mac and Cheese",
+            "clue": "Food"
+        },
+        {
+            "word": "Peking Duck",
+            "clue": "Food"
+        },
+        {
+            "word": "Xiaolongbao",
+            "clue": "Food"
+        },
+        {
+            "word": "Kung Pao Chicken",
+            "clue": "Food"
+        },
+        {
+            "word": "Chow Mein",
+            "clue": "Food"
+        },
+        {
+            "word": "Dumplings",
+            "clue": "Food"
+        },
+        {
+            "word": "Spring Rolls",
+            "clue": "Food"
+        },
+        {
+            "word": "Tom Yum",
+            "clue": "Food"
+        },
+        {
+            "word": "Green Curry",
+            "clue": "Food"
+        },
+        {
+            "word": "Massaman Curry",
+            "clue": "Food"
+        },
+        {
+            "word": "Spaghetti Carbonara",
+            "clue": "Food"
+        },
+        {
+            "word": "Margherita Pizza",
+            "clue": "Food"
+        },
+        {
+            "word": "Coq au Vin",
+            "clue": "Food"
+        },
+        {
+            "word": "Beef Bourguignon",
+            "clue": "Food"
+        },
+        {
+            "word": "Ratatouille",
+            "clue": "Food"
+        },
+        {
+            "word": "Cr\u00e8me Br\u00fbl\u00e9e",
+            "clue": "Food"
+        },
+        {
+            "word": "Churros",
+            "clue": "Food"
+        },
+        {
+            "word": "Gazpacho",
+            "clue": "Food"
+        },
+        {
+            "word": "Tacos al Pastor",
+            "clue": "Food"
+        },
+        {
+            "word": "Enchiladas",
+            "clue": "Food"
+        },
+        {
+            "word": "Tamales",
+            "clue": "Food"
+        },
+        {
+            "word": "BLACKPINK",
+            "clue": "Music"
+        },
+        {
+            "word": "Tupac Shakur",
+            "clue": "Music"
+        },
+        {
+            "word": "The Notorious B.I.G.",
+            "clue": "Music"
+        },
+        {
+            "word": "Freddie Mercury",
+            "clue": "Music"
+        },
+        {
+            "word": "Frank Sinatra",
+            "clue": "Music"
+        },
+        {
+            "word": "John Lennon",
+            "clue": "Music"
+        },
+        {
+            "word": "Paul McCartney",
+            "clue": "Music"
+        },
+        {
+            "word": "George Harrison",
+            "clue": "Music"
+        },
+        {
+            "word": "Ringo Starr",
+            "clue": "Music"
+        },
+        {
+            "word": "Brian May",
+            "clue": "Music"
+        },
+        {
+            "word": "Roger Taylor",
+            "clue": "Music"
+        },
+        {
+            "word": "John Deacon",
+            "clue": "Music"
+        },
+        {
+            "word": "Dua Lipa",
+            "clue": "Music"
+        },
+        {
+            "word": "Lil Nas X",
+            "clue": "Music"
+        },
+        {
+            "word": "Harry Styles",
+            "clue": "Music"
+        },
+        {
+            "word": "Shawn Mendes",
+            "clue": "Music"
+        },
+        {
+            "word": "Camila Cabello",
+            "clue": "Music"
+        },
+        {
+            "word": "Sia",
+            "clue": "Music"
+        },
+        {
+            "word": "Demi Lovato",
+            "clue": "Music"
+        },
+        {
+            "word": "Selena Gomez",
+            "clue": "Music"
+        },
+        {
+            "word": "Miley Cyrus",
+            "clue": "Music"
+        },
+        {
+            "word": "Jennifer Lopez",
+            "clue": "Music"
+        },
+        {
+            "word": "Shakira",
+            "clue": "Music"
+        },
+        {
+            "word": "Bad Bunny",
+            "clue": "Music"
+        },
+        {
+            "word": "J Balvin",
+            "clue": "Music"
+        },
+        {
+            "word": "Daddy Yankee",
+            "clue": "Music"
+        },
+        {
+            "word": "Luis Fonsi",
+            "clue": "Music"
+        },
+        {
+            "word": "Enrique Iglesias",
+            "clue": "Music"
+        },
+        {
+            "word": "Anitta",
+            "clue": "Music"
+        },
+        {
+            "word": "Apl.de.Ap",
+            "clue": "Music"
+        },
+        {
+            "word": "Nadine Lustre",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "James Reid",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Gary Valenciano",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Claudine Barretto",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Kim Chiu",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Xian Lim",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Julia Montes",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Joshua Garcia",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Julia Barretto",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Jake Cuenca",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Jericho Rosales",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Maja Salvador",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Lucy Torres",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Martin Nievera",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Rico Blanco",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Moira Dela Torre",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "KZ Tandingan",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Bamboo Ma\u00f1alac",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Venus Raj",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Janine Tugonon",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Maxine Medina",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Kylie Verzosa",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Megan Young",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Janella Salvador",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Lovi Poe",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Bela Padilla",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Gerald Anderson",
+            "clue": "Filipino Celebrities"
+        },
+        {
+            "word": "Empire State Building",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Burj Khalifa",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Eiffel Tower",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Taj Mahal",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Great Wall of China",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Colosseum",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Sydney Opera House",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Statue of Liberty",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Big Ben",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Petronas Towers",
+            "clue": "Buildings"
+        },
+        {
+            "word": "CN Tower",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Sagrada Familia",
+            "clue": "Buildings"
+        },
+        {
+            "word": "One World Trade Center",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Golden Gate Bridge",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Brooklyn Bridge",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Tower Bridge",
+            "clue": "Buildings"
+        },
+        {
+            "word": "London Eye",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Christ the Redeemer",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Great Pyramid of Giza",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Parthenon",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Notre Dame Cathedral",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Hagia Sophia",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Guggenheim Museum",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Louvre Museum",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Gateway Arch",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Space Needle",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Willis Tower",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Taipei 101",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Shanghai Tower",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Leaning Tower of Pisa",
+            "clue": "Buildings"
+        },
+        {
+            "word": "St. Peter's Basilica",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Angkor Wat",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Machu Picchu",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Stonehenge",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Easter Island Statues",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Mount Rushmore",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Chichen Itza",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Petra",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Acropolis",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Walt Disney Concert Hall",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Dancing House",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Pentagon",
+            "clue": "Buildings"
+        },
+        {
+            "word": "The White House",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Chrysler Building",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Marina Bay Sands",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Garden by the Bay",
+            "clue": "Buildings"
+        },
+        {
+            "word": "The Palm Jumeirah",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Forbidden City",
+            "clue": "Buildings"
+        },
+        {
+            "word": "The Kremlin",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Brandenburg Gate",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Arc de Triomphe",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Pompidou Center",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Washington Monument",
+            "clue": "Buildings"
+        },
+        {
+            "word": "Matterhorn",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Mount Everest",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Grand Canyon",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Niagara Falls",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Victoria Falls",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Angel Falls",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Northern Lights",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Great Barrier Reef",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Amazon Rainforest",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Sahara Desert",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Mount Fuji",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Mount Kilimanjaro",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Lake Baikal",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Dead Sea",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Great Blue Hole",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Ha Long Bay",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Uluru",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Giant's Causeway",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Cliffs of Moher",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Pamukkale",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Chocolate Hills",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Mount Mayon",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Taal Volcano",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Puerto Princesa Underground River",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Banaue Rice Terraces",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "El Nido",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Boracay",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Panglao Island",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Siargao",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Malapascua Island",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Palawan",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Cebu",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Bohol",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Davao",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Iloilo",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Batanes",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Coron",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Tubbataha Reefs",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Mount Apo",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Maria Cristina Falls",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Mount Pinatubo",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Hundred Islands",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Hinatuan Enchanted River",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Surigao",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Camiguin",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Samal Island",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Caramoan",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Calaguas",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Apo Island",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Siquijor",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Dumaguete",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Ifugao",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Donsol",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Ilocos",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Pagudpud",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "La Union",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Baguio",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Sagada",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Benguet",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Batad",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Bukidnon",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Zambales",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Batangas",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Quirino",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Aurora",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Quezon",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Bicol",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Leyte",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Samar",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Mindoro",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Negros",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Panay",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Luzon",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Visayas",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Mindanao",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Cordillera",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Cagayan Valley",
+            "clue": "Natural Landmarks"
+        },
+        {
+            "word": "Central Luzon",
+            "clue": "Natural Landmarks"
+        }
+    ]
+}

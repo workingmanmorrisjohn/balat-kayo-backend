@@ -1,4 +1,4 @@
-from typing import Dict, Union
+from typing import Dict, List, Union
 import json
 from loguru import logger
 import asyncio
@@ -9,6 +9,7 @@ from .player import Player
 from .broadcast_message import BroadcastMessage
 from .events import Event
 from .game_types import GameWord
+from .word_generator import generate_random_word
 
 class GameRoom:
     def __init__(self, room_id):
@@ -17,7 +18,7 @@ class GameRoom:
         self.connections: Dict[WebSocket, str] = {}
         self.is_started = False
         self.gamer_timer = None
-        self.votes = {}
+        self.votes: Dict[str, List[str]] = {}
         self.impostor = ""
         
     def add_player(self, player: Player):
@@ -48,6 +49,9 @@ class GameRoom:
     def set_name(self, player_id: str, new_name):
         self.players[player_id].player_name = new_name
     
+    def set_image(self, player_id: str, new_image):
+        self.players[player_id].player_image_url = new_image
+    
     def unready(self, player_id: str):
         self.players[player_id].is_ready = False
         
@@ -70,15 +74,36 @@ class GameRoom:
         next_player = random.choice([player for player in self.players.values() if not player.turn_ended])
         
         return next_player
+    
+    def reset_room(self):
+        self.is_started = False
+        self.votes = {}
+        self.impostor = ""
+        
+        for player_id in self.players.keys():
+            try:
+                self.players[player_id].is_ready = False
+                self.players[player_id].turn_ended = False
+                self.players[player_id].has_voted = False
+                self.players[player_id].currently_discussing = False
+            except Exception as e:
+                logger.warning(f"Something went wrong when updating player: {e}")
         
     def all_ready(self) -> bool:
         return all([ player.is_ready for player in self.players.values() ])
     
     def all_voted(self) -> bool:
-        return len(self.players) == len(self.votes)
+        return all([ player.has_voted for player in self.players.values() ])
     
     def vote(self, voter: str, voted: str):
-        self.votes[voter] = voted
+        logger.info(f"{voter} voted for {voted}")
+        
+        if self.votes.get(voted):
+            self.votes[voted].append(self.players[voter].player_image_url)
+        else:
+            self.votes[voted] = [self.players[voter].player_image_url]
+        
+        self.players[voter].has_voted = True
         
     async def generate_impostor(self):
         players = list(self.players.keys())
@@ -158,8 +183,9 @@ class GameRoom:
         await self.send_to_all_players(message)
     
     async def send_game_start(self):
-        message = BroadcastMessage(Event.GAME_START, GameWord(is_impostor=False, word="Michael Jordan").model_dump())
-        message_to_impostor = BroadcastMessage(Event.GAME_START, GameWord(is_impostor=True, word="Basketball player").model_dump())
+        random_word = generate_random_word()
+        message = BroadcastMessage(Event.GAME_START, GameWord(is_impostor=False, word=random_word.word).model_dump())
+        message_to_impostor = BroadcastMessage(Event.GAME_START, GameWord(is_impostor=True, word=random_word.clue).model_dump())
         
         await self.send_to_all_except_impostor(message, message_to_impostor)
         
@@ -176,13 +202,21 @@ class GameRoom:
         await self.send_to_all_players(message)
         
     async def show_impostor(self):
+        votes_list = []
+        
+        for player, voters in self.votes.items():
+            votes_list.append({
+                "player_id": player,
+                "voted_this_guy": voters
+            })
+        
         message_dict = {
             "impostor" : self.impostor,
             "winner" : self.winner(),
-            "votes" : self.votes()
+            "votes" : votes_list
         }
         
-        message = BroadcastMessage(Event.VOTING_START, message_dict)
+        message = BroadcastMessage(Event.SHOW_IMPOSTOR, message_dict)
         
         await self.send_to_all_players(message)
         

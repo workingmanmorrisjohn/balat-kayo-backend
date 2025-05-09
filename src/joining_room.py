@@ -9,6 +9,7 @@ from .config import DEFAULT_PLAYER_IMAGE
 from .room import rooms
 from .broadcast_message import default_messages, DefaultMessage
 from .events import Event
+from .name_generator import generate_random_name
 
 async def identify(websocket: WebSocket) -> bool:
     message_json = await websocket.receive_text()
@@ -27,6 +28,7 @@ async def identify(websocket: WebSocket) -> bool:
 async def handle_identify(websocket: WebSocket, message_data: Dict) -> Player:
     player_id = str(uuid.uuid4())
     player_name = message_data.get("player_name", "")
+    player_name = generate_random_name() if player_name == "" else player_name
     player_image_url = message_data.get("player_image_url", DEFAULT_PLAYER_IMAGE)
     
     player = Player(player_id=player_id,

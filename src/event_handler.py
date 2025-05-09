@@ -32,6 +32,12 @@ async def handle_set_name(websocket: WebSocket, data: Dict, room: GameRoom, play
     
     await room.send_updated_player_list()
     
+@register_event(Event.SET_IMAGE)
+async def handle_set_image(websocket: WebSocket, data: Dict, room: GameRoom, player: Player):
+    room.set_image(player.player_id, data.get("player_image_url", player.player_image_url))
+    
+    await room.send_updated_player_list()
+    
 @register_event(Event.END_TURN)
 async def handle_end_turn(websocket: WebSocket, data: Dict, room: GameRoom, player: Player):
     logger.info(f"Ending turn of {player.player_name}")
@@ -57,7 +63,8 @@ async def handle_vote(websocket: WebSocket, data: Dict, room: GameRoom, player: 
     
     room.vote(player.player_id, voted)
     
-    await room.send_updated_vote_dict()
-    
     if room.all_voted():
         await room.show_impostor()
+        room.reset_room()
+    
+    await room.send_updated_player_list()
