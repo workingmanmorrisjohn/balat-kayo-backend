@@ -13,6 +13,7 @@ from src.player import Player
 from src.config import DEFAULT_PLAYER_IMAGE
 from src.event_handler import event_handlers
 from src.joining_room import validate_room, identify
+from src.request_types import CreateRoomRequest
 
 app = FastAPI()
 
@@ -37,13 +38,13 @@ async def get_room_status(room_id: str):
     return JSONResponse(content={"status" : "WAITING"})
 
 @app.post("/create-room")
-async def create_room():
+async def create_room(request: CreateRoomRequest):
     room_id = str(uuid.uuid4())[:6]  # short unique room ID
     if room_id in rooms:
         # Extremely rare chance, but regenerate if conflict
         room_id = str(uuid.uuid4())[:6]
 
-    new_room = GameRoom(room_id)
+    new_room = GameRoom(room_id, number_of_rounds=request.numberOfRounds)
     rooms[room_id] = new_room
     logger.info(f"Created new room: {room_id}")
 

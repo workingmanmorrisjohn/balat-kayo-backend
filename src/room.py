@@ -12,7 +12,7 @@ from .game_types import GameWord
 from .word_generator import generate_random_word
 
 class GameRoom:
-    def __init__(self, room_id):
+    def __init__(self, room_id, number_of_rounds = 3):
         self.room_id = room_id
         self.players: Dict[str, Player] = {}
         self.connections: Dict[WebSocket, str] = {}
@@ -21,6 +21,8 @@ class GameRoom:
         self.votes: Dict[str, List[str]] = {}
         self.impostor = ""
         self.the_word = ""
+        self.order = []
+        self.number_of_rounds = number_of_rounds
         
     def add_player(self, player: Player):
         self.players[player.player_id] = player
@@ -59,6 +61,12 @@ class GameRoom:
     def start_game(self):
         self.is_started = True
         
+        ids = [player.player_id for player in self.players.values()]
+        
+        random.shuffle(ids)
+        
+        self.order = ids * self.number_of_rounds
+        
     def start_turn(self, player_id: str):
         self.players[player_id].currently_discussing = True
     
@@ -66,13 +74,20 @@ class GameRoom:
         self.players[player_id].currently_discussing = False
         self.players[player_id].turn_ended = True
         
+    def next_round(self):
+        for player in self.players.values():
+            player.turn_ended = False
+        
     def whos_next(self) -> Union[Player, None]:
+        if len(self.order) == 0:
+            return
+        
         all_done = all([player.turn_ended for player in self.players.values()])
         
         if all_done:
-            return
+            self.next_round()
         
-        next_player = random.choice([player for player in self.players.values() if not player.turn_ended])
+        next_player = self.players[self.order.pop()]
         
         return next_player
     
@@ -81,6 +96,7 @@ class GameRoom:
         self.votes = {}
         self.impostor = ""
         self.the_word = ""
+        self.order = []
         
         for player_id in self.players.keys():
             try:
