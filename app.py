@@ -24,12 +24,24 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+@app.get("/room-status/{room_id}")
+async def get_room_status(room_id: str):
+    room = rooms.get(room_id, None)
+    
+    if not room:
+        return JSONResponse(content={"status" : "INVALID"})
+    
+    if room.is_started:
+        return JSONResponse(content={"status" : "STARTED"})
+    
+    return JSONResponse(content={"status" : "WAITING"})
+
 @app.post("/create-room")
 async def create_room():
-    room_id = str(uuid.uuid4())[:8]  # short unique room ID
+    room_id = str(uuid.uuid4())[:6]  # short unique room ID
     if room_id in rooms:
         # Extremely rare chance, but regenerate if conflict
-        room_id = str(uuid.uuid4())[:8]
+        room_id = str(uuid.uuid4())[:6]
 
     new_room = GameRoom(room_id)
     rooms[room_id] = new_room
@@ -41,20 +53,14 @@ async def create_room():
 async def websocket_endpoint(websocket: WebSocket, room_id: str):
     await websocket.accept()
     
-    logger.info("Umabot dito")
-    
     room_validated = await validate_room(websocket, room_id)
     if not room_validated:
         return
-    
-    logger.info("Umabot dito rin")
 
     room = rooms[room_id]
     player = await identify(websocket)
     if not player:
         return
-    
-    logger.info("Umabot dito rin 2")
 
     room.add_player(player)
     logger.info(f"Players in room: {room.players.keys()}")

@@ -20,6 +20,7 @@ class GameRoom:
         self.gamer_timer = None
         self.votes: Dict[str, List[str]] = {}
         self.impostor = ""
+        self.the_word = ""
         
     def add_player(self, player: Player):
         self.players[player.player_id] = player
@@ -79,6 +80,7 @@ class GameRoom:
         self.is_started = False
         self.votes = {}
         self.impostor = ""
+        self.the_word = ""
         
         for player_id in self.players.keys():
             try:
@@ -186,6 +188,7 @@ class GameRoom:
         random_word = generate_random_word()
         message = BroadcastMessage(Event.GAME_START, GameWord(is_impostor=False, word=random_word.word).model_dump())
         message_to_impostor = BroadcastMessage(Event.GAME_START, GameWord(is_impostor=True, word=random_word.clue).model_dump())
+        self.the_word = random_word.word
         
         await self.send_to_all_except_impostor(message, message_to_impostor)
         
@@ -213,7 +216,8 @@ class GameRoom:
         message_dict = {
             "impostor" : self.impostor,
             "winner" : self.winner(),
-            "votes" : votes_list
+            "votes" : votes_list,
+            "word" : self.the_word
         }
         
         message = BroadcastMessage(Event.SHOW_IMPOSTOR, message_dict)
